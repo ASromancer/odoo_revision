@@ -70,11 +70,17 @@ Automatic fields
 @api.multi
 
 **6. Common ORM methods**
+
 Create/update
+
 .create(vals_list) -> records
+
 .copy(default=None)
+
 .default_get(fields_list) -> default_values
+
 .name_create(name)
+
 .write(vals)
 
 Search/Read
