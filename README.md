@@ -44,10 +44,15 @@ Computed fields
 Related fields
 
 Automatic fields
+
 	- id
+ 
 	- create_date
+ 
 	- create_uid
+ 
 	- write_date
+ 
 	- write_uid
 
 **4.Recordsets**
