@@ -1,18 +1,25 @@
 # odoo_revision
 17/10/2024
-1.Thành phần của 1 module trong odoo:
+
+**1.Thành phần của 1 module trong odoo:**
 
 data/
+
 models/
+
 controllers/
+
 views/
+
 static/
 
 wizard/
+
 report/
+
 tests/ 
 
-2.Các loại Models:
+**2.Các loại Models:**
 
 Models
 
@@ -20,7 +27,7 @@ AbstractModels
 
 TransientModels
 
-3.Các loại fields:
+**3.Các loại fields:**
 
 Basic fields: Boolen, Char, Float, Integer
 
@@ -43,9 +50,9 @@ Automatic fields
 	- write_date
 	- write_uid
 
-4.Recordsets
+**4.Recordsets**
 
-5.Method decorators:
+**5.Method decorators:**
 
 @api.model
 
