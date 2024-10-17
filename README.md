@@ -70,14 +70,15 @@ Automatic fields
 @api.multi
 
 **6. Common ORM methods**
-	**Create/update**
+Create/update
 .create(vals_list) -> records
 .copy(default=None)
 .default_get(fields_list) -> default_values
 .name_create(name)
 .write(vals)
 
-	Search/Read
+Search/Read
+
 .browse([ids]) -> records
 
 .search(domain[, offset=0][, limit=None][, order=None][, count=False])
@@ -90,24 +91,24 @@ Automatic fields
 
 .read_group(domain, fields, groupby, offset=0, limit=None, orderby=False, lazy=True)
 
-	Fields
+Fields
  
 .fields_get([allfields][, attributes])
 
-	Unlink
+Unlink
  
 .unlink()
 
-	Filter
+Filter
  
 .filtered(func)
 
-	Map
+Map
  
 .mapped(func)
 
 
-	Sort
+Sort
  
 .sorted(key=None, reverse=False)
 
