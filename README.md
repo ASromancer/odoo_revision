@@ -1,4 +1,4 @@
-# odoo_revision
+# Odoo Revision
 17/10/2024
 
 **1.Thành phần của 1 module trong odoo:**
