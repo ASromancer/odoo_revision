@@ -69,3 +69,42 @@ Automatic fields
 
 @api.multi
 
+**6. Common ORM methods**
+	**Create/update**
+.create(vals_list) -> records
+.copy(default=None)
+.default_get(fields_list) -> default_values
+.name_create(name)
+.write(vals)
+
+	**Search/Read**
+.browse([ids]) -> records
+.search(domain[, offset=0][, limit=None][, order=None][, count=False])
+.search_count(domain)
+.name_search(name='', args=None, operator='ilike', limit=100) → records
+.read([fields])
+.read_group(domain, fields, groupby, offset=0, limit=None, orderby=False, lazy=True)
+
+	**Fields**
+.fields_get([allfields][, attributes])
+
+	**Unlink**
+.unlink()
+
+	**Filter**
+.filtered(func)
+
+	**Map**
+.mapped(func)
+
+
+	**Sort**
+.sorted(key=None, reverse=False)
+
+**7.Inheritance**
+
+Cách 1: Classical inheritance
+
+Cách 2: Extension
+
+Cách 3: Delegation
