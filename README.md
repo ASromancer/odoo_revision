@@ -1,6 +1,6 @@
 # odoo_revision
 17/10/2024
-1.Thành phần của 1 module trong odoo:
+1.Thành phần của 1 module trong odoo:\n
 data/
 models/
 controllers/
