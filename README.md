@@ -169,3 +169,5 @@ Record rules: Xác định quy tắc để giới hạn quyền truy cập dữ 
 
 Groups: Phân chia người dùng vào các nhóm có quyền hạn khác nhau.
 
+![image](https://github.com/user-attachments/assets/30eb0ae7-603a-4d36-a9d1-36b7b21e86e7)
+
