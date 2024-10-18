@@ -1,5 +1,5 @@
 # Odoo Revision
-17/10/2024
+**17/10/2024**
 
 **1.Thành phần của 1 module trong odoo:**
 
@@ -126,6 +126,8 @@ Cách 2: Extension
 
 Cách 3: Delegation
 
+**18/10/2024**
+
 **8. Views**
 
 Tree
@@ -158,7 +160,7 @@ Automated Actions
 
 Access rights
 
-Access rules
+Record rules
 
 Groups
 
