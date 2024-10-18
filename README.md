@@ -126,6 +126,9 @@ Cách 2: Extension
 
 Cách 3: Delegation
 
+![image](https://github.com/user-attachments/assets/eaa8d1af-c467-4b3e-b065-13f4c37f99f9)
+
+
 **18/10/2024**
 
 **8. Views**
