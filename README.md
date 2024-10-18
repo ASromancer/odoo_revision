@@ -130,37 +130,39 @@ Cách 3: Delegation
 
 **8. Views**
 
-Tree
-  
-Form
-  
-Search
-  
-Kanban
-  
-Inheritance
+Tree view: Hiển thị dữ liệu dưới dạng danh sách.
+
+Form view: Hiển thị và chỉnh sửa chi tiết một bản ghi.
+
+Search view: Cho phép tìm kiếm dữ liệu.
+
+Kanban view: Hiển thị dữ liệu theo dạng bảng, có thể kéo thả.
+
+Inheritance: Kế thừa và mở rộng các view có sẵn.
 
 **9. Actions**
 
-Window Actions
+Window Actions: Mở các cửa sổ giao diện.
 
-Url Actions
+Url Actions: Chuyển hướng tới một URL cụ thể.
 
-Server Actions
- 
-Report Actions
- 
-Client Actions
- 
-Automated Actions
+Server Actions: Thực hiện các tác vụ phía server.
+
+Report Actions: Thực hiện tạo báo cáo.
+
+Client Actions: Thực hiện hành động phía client.
+
+Automated Actions: Các hành động tự động dựa trên điều kiện.
 
 **10. Menus**
 
+Menu trong Odoo là các mục điều hướng để truy cập vào các phần của ứng dụng/web. Các menu được định nghĩa trong file XML và có thể phân cấp nhiều mức để tổ chức giao diện người dùng.
+
 **11. Security**
 
-Access rights
+Access rights: Xác định các quyền truy cập (create, read, write, unlink) cho từng model.
 
-Record rules
+Record rules: Xác định quy tắc để giới hạn quyền truy cập dữ liệu dựa trên các điều kiện.
 
-Groups
+Groups: Phân chia người dùng vào các nhóm có quyền hạn khác nhau.
 
