@@ -125,3 +125,40 @@ Cách 1: Classical inheritance
 Cách 2: Extension
 
 Cách 3: Delegation
+
+**8. Views**
+
+Tree
+  
+Form
+  
+Search
+  
+Kanban
+  
+Inheritance
+
+**9. Actions**
+
+Window Actions
+
+Url Actions
+
+Server Actions
+ 
+Report Actions
+ 
+Client Actions
+ 
+Automated Actions
+
+**10. Menus**
+
+**11. Security**
+
+Access rights
+
+Access rules
+
+Groups
+
